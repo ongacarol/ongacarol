@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Carolina Onga
+- 👋 Hi, I’m Carol
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web development projects
